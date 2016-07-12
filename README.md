@@ -16,6 +16,7 @@
 <li><a href="http://www.vogella.com/tutorials/Git/article.html#gitdefintion_tools1"> Comprehensive Git tutorial </a></li>
 <li><a href="https://www.agilealliance.org/agile101/"> About Agile </a></li>
 <li><a href="https://css-tricks.com/"> CSS Tips and Tutorials </a></li>
+<li><a href="https://help.github.com/categories/bootcamp/"> Basic Github resources </a></li>
 
 
 
