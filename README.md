@@ -2,6 +2,7 @@
 <br> 
 <h3>General Guides and Resource Lists:</h3>
 <ul>
+<li><a href="https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F"> Project ideas, improving, and exercises </a></li>
 <li><a href="https://github.com/Leo-G/DevopsWiki"> DevOps Wiki: Git, command line, python, javascript </a></li>
 <li><a href="https://bento.io/"> Tutorials for all things webdev </a></li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web"> Extensive documentation and some tutorials </a></li>
